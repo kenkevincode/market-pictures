@@ -20,7 +20,7 @@
         </div>
       </div>
       <div v-if="!(pictureCard.id in basket)" class="card__buy-button" @click="buyPicture">
-        <h4>{{ pictureCard.buy }}</h4>
+        <h4>Купить</h4>
       </div>
       <div v-else class="card__basket-button">
         <div class="basket-logo">

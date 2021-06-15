@@ -6,7 +6,6 @@ export default [
     painter: 'Сандро Боттичелли',
     price: '1 000 000 $',
     oldPrice: '2 000 000 $',
-    buy: 'Купить',
     sold: false
   },
   {
@@ -16,7 +15,6 @@ export default [
     painter: 'Леонардо да винчи',
     price: '3 000 000 $',
     oldPrice: '',
-    buy: 'Купить',
     sold: false
   },
   {
@@ -26,7 +24,6 @@ export default [
     painter: 'Микеланджело',
     price: '5 000 000 $',
     oldPrice: '6 000 000 $',
-    buy: 'Купить',
     sold: false
   },
   {
@@ -36,7 +33,6 @@ export default [
     painter: 'Рембрант',
     price: '2 000 000$',
     oldPrice: '3 000 000$',
-    buy: 'Купить',
     sold: true
   }
 ]
